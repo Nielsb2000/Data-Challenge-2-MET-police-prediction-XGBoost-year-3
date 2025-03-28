@@ -1,3 +1,9 @@
+This project was made in my 4th year and contains work on MET prediction using XGBoost. Data is not on the github but below is a description of how to acquire it and run it yourself.
+
+
+
+
+
 # JBG040-Group9
 This repository contains the code for the TU/e course JBG050 Data Challenge 2. Please read this document carefully as it has been filled out with important information on how to run the code.
 
